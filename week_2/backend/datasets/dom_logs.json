@@ -1,0 +1,435 @@
+[
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "addedNodes": [
+      "<p>New paragraph at 10:55:35 AM</p>"
+    ],
+    "timestamp": "2025-06-29T04:55:35.848Z",
+    "type": "normal"
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "addedNodes": [
+      "<p>New paragraph at 10:55:38 AM</p>"
+    ],
+    "timestamp": "2025-06-29T04:55:38.532Z",
+    "type": "suspicious"
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "addedNodes": [
+      "<p>New paragraph at 10:55:40 AM</p>"
+    ],
+    "timestamp": "2025-06-29T04:55:40.462Z",
+    "type": "suspicious"
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-06-29T10:59:06.248170",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-06-29T10:59:08.322836",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-06-29T10:59:10.403292",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-06-29T10:59:12.470621",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-06-29T10:59:14.517038",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-06-29T10:59:16.564726",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-06-29T10:59:18.649153",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-06-29T10:59:20.808720",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-06-29T10:59:22.867374",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-06-29T10:59:24.934488",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "addedNodes": [
+      "<p>New paragraph at 11:00:06 AM</p>"
+    ],
+    "timestamp": "2025-06-29T05:00:06.804Z",
+    "type": "suspicious"
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-07-02T04:32:19.430186",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-07-02T04:32:21.527355",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-07-02T04:32:23.570627",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-07-02T04:32:25.649187",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-07-02T04:32:27.695321",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-07-02T04:32:29.751765",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-07-02T04:32:31.788949",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-07-02T04:32:33.824210",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-07-02T04:32:35.900433",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-07-02T04:32:37.956269",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "addedNodes": [
+      "<p>New paragraph at 4:33:13 AM</p>"
+    ],
+    "timestamp": "2025-07-01T22:33:13.106Z",
+    "type": "normal"
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "addedNodes": [
+      "<p>New paragraph at 4:33:28 AM</p>"
+    ],
+    "timestamp": "2025-07-01T22:33:28.617Z",
+    "type": "normal"
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "addedNodes": [
+      "<p>New paragraph at 4:46:47 AM</p>"
+    ],
+    "timestamp": "2025-07-01T22:46:47.439Z",
+    "type": "normal"
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-07-02T04:47:21.928913",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-07-02T04:47:24.004204",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-07-02T04:47:26.069111",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-07-02T04:47:28.246492",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "timestamp": "2025-07-02T04:47:30.292131",
+    "type": "normal",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-07-02T04:47:32.347095",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-07-02T04:47:34.381980",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-07-02T04:47:36.609145",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-07-02T04:47:39.115849",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList",
+      "attributes"
+    ],
+    "timestamp": "2025-07-02T04:47:41.179541",
+    "type": "suspicious",
+    "addedNodes": [
+      "<div>Simulated node</div>"
+    ]
+  },
+  {
+    "website_id": 1,
+    "mutations": [
+      "childList"
+    ],
+    "addedNodes": [
+      "<p>New paragraph at 4:56:30 AM</p>"
+    ],
+    "timestamp": "2025-07-01T22:56:30.708Z",
+    "type": "suspicious"
+  }
+]
